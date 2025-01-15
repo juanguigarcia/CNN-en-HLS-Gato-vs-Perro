@@ -23,7 +23,7 @@ En esta otra carpeta, se encuentran los códigos mencionados en la carpeta *C++*
 Vivado
 -------------
 En esta carpeta se encuentra el *bitstream* generado con *Vivado* en formato *.xsa*. La conexión de los componentes en *Vivado* es como se muestra en la siguiente imagen:
-
+![](https://github.com/juanguigarcia/CNN-en-HLS-Gato-vs-Perro/blob/main/blockdesigncnn.JPG)
 
 Xilink Vitis
 -------------
